@@ -1,4 +1,4 @@
-Copyright 2016 - The CyanogenMod Project
+AOSCP device tree for leeco le2 (s2)
 
 Device configuration for Letv LeEco Le 2 (International).
 =======================================================
