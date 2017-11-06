@@ -1,18 +1,26 @@
 Un-Official
+
 AOSCP device tree for leeco le2 (s2)
 
 Built By - Ankit Khandelwal (ankk98)
+
 Built for - Leeco Le 2 (s2)
+
 Built on date - 5-11-17
+
 Built on - ankk98-cloud
+
 Rom link - https://drive.google.com/file/d/0B5gnd5gdifAgZko2WWdmT1VhWG8/view?usp=sharing
+
 Status - Testing/Beta
+
 Bugs - Touch Capacitive Buttons not working, Camera same as lineage 14.1
 
-Contributers - ankk98 for built
-               codeworkx for lineage
-               aoscp team for aoscp
-               Mati Halperin for guidance
+
+Contributers - ankk98 for built, 
+               codeworkx for lineage, 
+               aoscp team for aoscp, 
+               Mati Halperin for guidance, 
                others
 
 
